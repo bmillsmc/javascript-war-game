@@ -19,8 +19,11 @@ And thats it! With these two things you can be playing a game of War in no time!
 4. Back in your terminal, use the command `git clone [The SSH you just copied]` to clone the repository down to your computer
 5. In the highest folder in the repo (the one you made and no lower) do the command `open lib/index.html` to open the index file in your default browser
 6. Right-click the webpage and use the "Inspect" option to open the developer tools menu
-7. In the menu click the "Console" tab and type `war.playCards()` to start the first round
+7. In the menu click the "Console" tab and type `War.playCards()` to start the first round
 8. Each round enter the command again to play a new set of cards until one person has collected the entire deck!
+
+## Usage
+Really this is just a fun little project, but if you're looking to relive your childhood glory and crush all those that threaten your throne, then maybe War is for you.
 
 ## Suggestions
 I'm always looking to learn and grow as a developer. Even though this is one of my first projects I'm not afraid of critisism. Please don't be afraid to give me suggestions to add to make the game look or run better.
